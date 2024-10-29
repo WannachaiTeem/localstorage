@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name" : "Monkey D. Lufy",
+        "username" : "640112121",
+        "password" : "12345",
+        "type" : "0",
+        "image" : "https://wegotthiscovered.com/wp-content/uploads/2022/09/One-Piece-Monkey-D-Luffy-e1693333525114.jpg",
+        "country" : "ประเทศไทย"
+    },
+    {
+        "id": 2,
+        "name" : "Itadori Uji",
+        "username" : "640112020",
+        "password" : "678910",
+        "type" : "0",
+        "image" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/11/Jujutsu-Kaisen-Itadori.jpg",
+        "country" : "ประเทศญี่ปุ่น"
+    },
+    {
+        "id": 3,
+        "name" : "admin",
+        "username" : "admin@msu",
+        "password" : "11111",
+        "type" : "1",
+        "image" : "https://i.pinimg.com/736x/e8/75/8f/e8758f61c54a34969c8f0864baa16cbe.jpg",
+        "country" : "ประเทศสวิตเซอร์แลนด์"
+    }
+]
